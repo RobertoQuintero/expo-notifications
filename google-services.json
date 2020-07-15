@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "143828730762",
+    "firebase_url": "https://notifications-rn-8b821.firebaseio.com",
+    "project_id": "notifications-rn-8b821",
+    "storage_bucket": "notifications-rn-8b821.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143828730762:android:b35738f1bafaf981057e73",
+        "android_client_info": {
+          "package_name": "com.notificationsroberto.cliente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143828730762-3bcs298s6cp4e7oe781nkpuj66debb2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3bQsLJ2mTWCdZsKTn_yHm95TiyA-pLOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143828730762-3bcs298s6cp4e7oe781nkpuj66debb2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143828730762:android:a52ccd8634bdcda7057e73",
+        "android_client_info": {
+          "package_name": "com.notificationsroberto.vendedor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143828730762-3bcs298s6cp4e7oe781nkpuj66debb2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3bQsLJ2mTWCdZsKTn_yHm95TiyA-pLOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143828730762-3bcs298s6cp4e7oe781nkpuj66debb2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
